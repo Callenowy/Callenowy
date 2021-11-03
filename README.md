@@ -6,7 +6,7 @@
 My name is Radek Napora. I'm self-motivated ambitious front-end engineer with 6+ years of commercial experience.  
 
 Currently working as Team Lead/Senior Frontend Developer at Craftware.  
-Salesforce JavaScript Developer I certified.
+Salesforce JavaScript Developer I certified.  
 Enjoy challenges, and I am not afraid to use any technology.  
 Like to be up to date with new features in the front-end world, and share knowledge with others.
 
